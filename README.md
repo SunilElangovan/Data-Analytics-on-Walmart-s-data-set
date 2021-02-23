@@ -1,9 +1,9 @@
 # Walmart Sales Forecasting using Python
 
 Data Discription:
-1) Stores - This file contains anonymized information about the 45 stores, indicating the type and size of store.
+a) Stores - This file contains anonymized information about the 45 stores, indicating the type and size of store.
 
-2) Features - This file contains additional data related to the store, department, and regional activity for the given dates. 
+b) Features - This file contains additional data related to the store, department, and regional activity for the given dates. 
  
  1. Store - the store number
  2. Date - the week
