@@ -16,7 +16,16 @@ b) Features - This file contains additional data related to the store, departmen
  7. Unemployment - the unemployment rate     
  8. IsHoliday - whether the week is a special holiday week       
   
-  
+c) Train - This is the historical training data, which covers to 2010-02-05 to 2012-11-01. Within this file you will find the following fields:
+
+ 1. Store - the store number
+ 2. Dept - the department number
+ 3. Date - the week
+ 4. Weekly_Sales -  sales for the given department in the given store
+ 5. IsHoliday - whether the week is a special holiday week
+
+d) Test - This file is identical to train.csv, except we have withheld the weekly sales. You must predict the sales for each triplet of store, department, and date in this file.
+ 
   
     
   
